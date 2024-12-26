@@ -27,7 +27,7 @@ const OurTeamMembers=()=>{
         <div className=" sm:mt-16 h-full my-4 mt-12 ">
               {/* Heading */}
               <div className="flex flex-col  justify-center mb-12 items-center">
-                <h2 className="font-bold sm:my-6 text-xl text-blue-600">Team Members</h2>
+                <h2 className="font-bold sm:my-6 text-3xl text-blue-600">Team Members</h2>
                 <h1 className="sm:text-5xl text-3xl  flex text-center w-[100%] sm:w-[50%] font-bold">Professional Stuffs Ready to Help Your Business
                 </h1>
             </div>

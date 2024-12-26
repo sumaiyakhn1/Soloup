@@ -33,7 +33,7 @@ const Blogs=()=>{
         <div className=" sm:mt-16 mt-9 h-full">
               {/* Heading */}
               <div className="flex flex-col  justify-center mb-12 items-center">
-                <h2 className="font-bold sm:my-6 text-xl text-blue-600">Latest Blog</h2>
+                <h2 className="font-bold sm:my-6 text-3xl text-blue-600">Latest Blog</h2>
                 <h1 className="sm:text-5xl text-3xl  flex text-center w-[100%] sm:w-[50%] font-bold">Read The Latest Articles from Our Blog Post
                 </h1>
             </div>

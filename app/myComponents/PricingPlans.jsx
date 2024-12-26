@@ -47,7 +47,7 @@ const PricingPlans = () => {
         <div className="h-full sm:16 mt-24 ">
             {/* Heading */}
             <div className="flex flex-col  justify-center mb-12 items-center">
-                <h2 className="font-bold sm:my-6 text-xl text-blue-600">Our Plans</h2>
+                <h2 className=" sm:my-6 text-3xl font-bold text-blue-600">Our Plans</h2>
                 <h1 className="sm:text-6xl text-3xl  flex text-center w-[100%] sm:w-[60%] font-bold">We are Offering Competitive Prices for Our Clients
                 </h1>
             </div>
