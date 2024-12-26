@@ -22,7 +22,9 @@ export default function Home() {
 
     
 <CraetiveSec/>
+<div className="mt-[50rem] sm:mt-80">
 <AboutUs/>
+</div>
 <ChooseUs/>
 <Service/>
 <PricingPlans/>
@@ -30,7 +32,7 @@ export default function Home() {
 {/* <OurClient/> */}
 <OurTeamMembers/>
 <Blogs/>
-<Footer/>
+
 
 
    </main>

@@ -24,8 +24,8 @@ const links=[
         path:'/blog'
     },
     {
-        name:'contact',
-        path:'/contact'
+        name:'Plans',
+        path:'/'
     },
 ]
 function MobileNav() {

@@ -4,7 +4,7 @@ import { IoCall } from "react-icons/io5";
 const AbouUs = () => {
     return (
 
-        <div className="mt-[53rem] sm:mt-80 flex h-full   w-full flex-wrap sm:h-[36rem] ">
+        <div className=" flex h-full my-32   w-full flex-wrap sm:h-[36rem] ">
             {/* textsection */}
             <div className="flex flex-col   mx-0 px-0 w-full  sm:w-[55%] items-start">
                 <h2 className="sm:ml-24 ml-7  text-blue-600 text-2xl font-bold">About us</h2>
