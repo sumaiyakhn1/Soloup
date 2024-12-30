@@ -45,10 +45,10 @@ const Footer=()=>{
             <div className="flex h-[25px]  items-center justify-start font-[18px] mt-5 "><span className="text-blue-400"><CiLocationOn /></span><p className='text-white ml-2'>Panipat,Haryana</p></div>
             <div className="flex h-[25px] items-center justify-start mt-[5px] text-[18px] font-medium "><span className="text-blue-400"><MdOutlineEmail />
             </span><p className='text-white ml-2' >
-            rajputsundram87@gmail.com</p></div>
+            abc@gmail.com</p></div>
 
             <div className="h-[25px] mt-2 font-medium items-center justify-start flex"><span className="text-blue-300"><IoCall /></span><p className='ml-2 text-white'>
-            +91 8684961182</p></div>
+            +91 1234567890</p></div>
             <div className=' h-[80px] mt-[30px] flex gap-2 '>
                 {
                 icons.map((item,index)=>{

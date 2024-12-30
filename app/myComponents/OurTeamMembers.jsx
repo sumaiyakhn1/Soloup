@@ -5,7 +5,7 @@ const OurTeamMembers=()=>{
     const ClintDetails =[
         {
             image:<Image src="/Images/User.png" width={380} height={70}/>,
-            name:"Sundram",
+            name:"Sumaiya",
             professions:"Web developer",
             
         },  {
@@ -16,7 +16,7 @@ const OurTeamMembers=()=>{
         },
         {
             image:<Image src="/Images/User.png" width={380} height={70}/>,
-            name:"Sundram",
+            name:"Sam",
             professions:"Logo Designer",
           
         }

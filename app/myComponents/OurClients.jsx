@@ -4,7 +4,7 @@ const PricingPlans = () => {
     const cards=[
         {
             image:<Image src="/Images/AboutUs.jpg" width={60} height={70}/>,
-            name:"Sundram",
+            name:"Sumaiya",
             professions:"",
             says:""
         },
@@ -16,7 +16,7 @@ const PricingPlans = () => {
         },
         {
             image:<Image src="/Images/AboutUs.jpg" width={60} height={70} alt=""/>,
-            name:"Sundram",
+            name:"bbj",
             professions:"",
             says:""
         }

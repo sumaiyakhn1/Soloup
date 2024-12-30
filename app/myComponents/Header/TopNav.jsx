@@ -17,12 +17,12 @@ const TopNav=()=>{
 </div>
 <div className="flex items-center ">
 <IoCall />
-<p className="text-sm ">+91 8684961182</p>
+<p className="text-sm ">+91 1234567890</p>
 
 </div>
 <div className="flex items-center ">
 <MdEmail />
-<p className="text-sm ">rajputsundram87@gmail.com</p>
+<p className="text-sm ">abc@gmail.com</p>
 </div>
 </div>
 

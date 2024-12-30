@@ -6,7 +6,7 @@ const Blogs=()=>{
     const ClintDetails =[
         {
             image:<Image src="/Images/AboutUs.jpg" width={380} height={70}/>,
-            user:"Sundram",
+            user:"XYZ",
             date:"22/12/24",
             heading:"web development" ,
             para:"  Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore, cupiditate."  
@@ -22,7 +22,7 @@ const Blogs=()=>{
         },
         {
             image:<Image src="/Images/AboutUs.jpg" width={380} height={70}/>,
-            user:"Sundram",
+            user:"Sumaiya",
             date:"22/12/24",
             heading:"web development" ,
             para:"  Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore, cupiditate."  
